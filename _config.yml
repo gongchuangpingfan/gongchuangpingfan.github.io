@@ -15,9 +15,9 @@ future: true
 RSS: false
 weibo_username: gongchuang
 zhihu_username: gongchuang
-github_username: gongchuang
-twitter_username:gongchuang
-#facebook_username:  gongchuang
+github_username: gongchuangpingfan
+twitter_username:huxpro
+#facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
